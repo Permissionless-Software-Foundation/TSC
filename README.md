@@ -72,10 +72,12 @@ Any Workgroup member can request a video be posted to the YouTube channel by ask
 ## Top-Level Projects and Working Groups
 Top-Level Projects (TLP) Working Groups (WG) are governed by a [project lifecycle](./project-lifecycle.md) and are empowered by the TSC.
 
-* [Working Groups](working-groups.md)
-* Top-Level Projects
- - [bch-api](https://github.com/Permissionless-Software-Foundation/bch-api)
- - [bch-js](https://github.com/Permissionless-Software-Foundation/bch-js)
+- Top-Level Projects
+  - [bch-api](https://github.com/Permissionless-Software-Foundation/bch-api)
+  - [bch-js](https://github.com/Permissionless-Software-Foundation/bch-js)
+
+- [Working Groups](working-groups.md)
+
 
 ## Policy Change Proposal Process
 
