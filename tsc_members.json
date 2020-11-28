@@ -1,0 +1,33 @@
+{
+  "schema": {
+    "name": "What other people should call you.",
+    "bchAddr": "BCH address for message.fullstack.cash where people can send you e2ee messages.",
+    "slpAddr": "SLP address where people can send you tokens.",
+    "memo": "Profile on memo.cash",
+    "twitter": "Profile on Twitter",
+    "telegram": "Handle on Telegram",
+    "email": "Email address"
+  },
+  "members": [
+    {
+      "name": "Chris Troutner",
+      "github": "https://github.com/christroutner",
+      "bchAddr": "bitcoincash:qpt52hya49ap9zkpywkef2fzwks8ugfmuy24hp9mdf",
+      "slpAddr": "simpleledger:qpt52hya49ap9zkpywkef2fzwks8ugfmuyxwu6smnh",
+      "memo": "https://memo.cash/profile/1G147DZXqKQKACxU1thekUApawSxHnpooa",
+      "twitter": "https://twitter.com/christroutner",
+      "telegram": "@christroutner",
+      "email": "chris.troutner@gmail.com"
+    },
+    {
+      "name": "Daniel Gonzalez",
+      "github": "https://github.com/danielhumgon",
+      "bchAddr": "",
+      "slpAddr": "",
+      "memo": "",
+      "twitter": "https://twitter.com/danielhumgon",
+      "telegram": "",
+      "email": ""
+    }
+  ]
+}
