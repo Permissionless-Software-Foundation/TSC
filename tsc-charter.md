@@ -95,7 +95,7 @@ meeting).
 
 Leadership roles in the PSF will be peer elected by representatives of the community. The TSC will elect from amongst voting TSC members a TSC Chairperson to work on building an agenda for TSC meetings.
 
-**This section to be filled in with more information.**
+**This section to be filled in with more information.** See the original [Node.js version](https://github.com/nodejs/TSC/blob/master/TSC-Charter.md#section-6-elections).
 
 ## Section 7. Voting
 
@@ -152,6 +152,12 @@ is organized through the project creation process and approved by the
 TSC.
 
 * **PSF Stakeholders**: People who have gained enough Merit to in the [PSF VIP Telegram room](https://t.me/psf_vip) have demonstrated that they have skin-in-the-game, and therefore, their opinions are worth consideration by the TSC.
+
+* **Merit**: Merit is a value calculated on a Bitcoin Cash address. It's based on the PSF tokens that the address holds. Merit is calculated as follows:
+
+Merit = token quantity X token age
+
+The age is calculated in days. For example, an address holding 1,000 PSF tokens for 30 days would have a Merit value of 30,000. An address holding 10,000 PSF tokens for 10 days would also have a Merit value of 30,000.
 
 [Consensus Seeking]: https://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [Condorcet]: https://en.wikipedia.org/wiki/Condorcet_method
