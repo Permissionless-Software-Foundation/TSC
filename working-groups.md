@@ -1,7 +1,7 @@
 # PSF Core Working Groups
 
 PSF Core Working Groups are autonomous projects created by the
-[Technical Steering Committee (TSC)][./README.md].
+[Technical Steering Committee (TSC)](./README.md).
 
 Working Groups can be formed at any time but must be ratified by the TSC.
 Once formed the work defined in the Working Group charter is the
