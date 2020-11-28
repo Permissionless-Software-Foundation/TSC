@@ -96,7 +96,7 @@ In some cases, existing individual groups have the right to refuse changes to th
 ## Links
 - [PSF Website](http://PSFoundation.cash)
 - [TSC Charter](./tsc-charter.md)
-- [Project Lifecycle.md](./Project-Lifecycle.md)
+- [Project Lifecycle.md](./project-lifecycle.md)
 - [PSF YouTube channel](https://www.youtube.com/channel/UCQ57IDXJJSYXHBLpF1tBD0g)
 - [PSF Twitter Feed](https://twitter.com/PSF_DAO)
 - [PSF Memo.cash Community Feed](https://memo.cash/profile/13hev19KaFFD7QqZEenmxUuNPNN8jxCCd5)

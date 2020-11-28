@@ -226,8 +226,8 @@ The [PSF Moderation Policy] applies to this WG.
 
 The [PSF Code of Conduct][] applies to this WG.
 
-[PSF Code of Conduct]: https://github.com/nodejs/TSC/blob/master/CODE_OF_CONDUCT.md
-[PSF Moderation Policy]: https://github.com/nodejs/TSC/blob/master/Moderation-Policy.md
+[PSF Code of Conduct]: https://github.com/Permissionless-Software-Foundation/TSC/blob/master/code-of-conduct.md
+[PSF Moderation Policy]: https://github.com/Permissionless-Software-Foundation/TSC/blob/master/moderation-policy.md
 ```
 
 [Community Committee]: https://github.com/Permissionless-Software-Foundation/community-committee
