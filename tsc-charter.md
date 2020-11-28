@@ -155,9 +155,9 @@ TSC.
 
 * **Merit**: Merit is a value calculated on a Bitcoin Cash address. It's based on the PSF tokens that the address holds. Merit is calculated as follows:
 
-Merit = token quantity X token age
+  * Merit = token quantity X token age
 
-The age is calculated in days. For example, an address holding 1,000 PSF tokens for 30 days would have a Merit value of 30,000. An address holding 10,000 PSF tokens for 10 days would also have a Merit value of 30,000.
+  * The age is calculated in days. For example, an address holding 1,000 PSF tokens for 30 days would have a Merit value of 30,000. An address holding 10,000 PSF tokens for 10 days would also have a Merit value of 30,000.
 
 [Consensus Seeking]: https://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [Condorcet]: https://en.wikipedia.org/wiki/Condorcet_method
