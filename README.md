@@ -12,7 +12,12 @@ responsibilities as defined below.
 
 ### PSF Core
 
-*PSF Core* is defined as the [bch-api](https://github.com/Permissionless-Software-Foundation/bch-api) REST API and [bch-js](https://github.com/Permissionless-Software-Foundation/bch-js) JavaScript library which make up the middle section of the [Cash Stack](https://fullstack.cash/). The 'Cash Stack' is a framework for creating modern web and phone apps that can interact with the Bitcoin Cash blockchain.
+*PSF Core* is defined as the following software stack:
+- [bch-api](https://github.com/Permissionless-Software-Foundation/bch-api) REST API
+- [bch-js](https://github.com/Permissionless-Software-Foundation/bch-js) JavaScript library
+- [gatsby-ipfs-web-wallet](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet) front end wallet GatsbyJS Theme
+
+This software makes up the top half of the [Cash Stack](https://fullstack.cash/). The 'Cash Stack' is a framework for creating modern web and phone apps that can interact with the Bitcoin Cash blockchain.
 
 ### Adjacent Projects
 
